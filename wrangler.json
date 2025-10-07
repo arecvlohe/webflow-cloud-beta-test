@@ -8,6 +8,7 @@
     "binding": "ASSETS",
     "directory": ".open-next/assets"
   },
+  "r2_buckets": [{ "binding": "CLOUD_FILES", "bucket_name": "ncp-screens" }],
   "observability": {
     "enabled": true
   }
